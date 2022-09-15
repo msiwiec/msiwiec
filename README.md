@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @msiwiec
-- 👀 I’m interested in UX and programing
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in accessibility, strategy UX and programing
+- 🌱 I’m currently learning Accessible Rich Internet Applications (ARIA) and JavaScript
 - 💞️ I’m looking to collaborate on aplication design or web site
 - 📫 How to reach me send e-mail to me
 
